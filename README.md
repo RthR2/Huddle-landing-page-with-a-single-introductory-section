@@ -9,10 +9,10 @@ Esta é uma solução do desafio [Huddle landing page with a single introductory
 
 ### Screenshot
 #### Mobile Version
-![Screenshot mobi Huddle landing page](https://user-images.githubusercontent.com/93809764/170180516-0818950d-efe7-40eb-b9c3-625934052ebc.png)
+![mobile](https://user-images.githubusercontent.com/93809764/170196151-9e1028c2-da8e-4fc7-833d-9ce71b35e2f8.png)
 
 #### Desktop Version
-![Screenshot Huddle landing page](https://user-images.githubusercontent.com/93809764/170179917-f2eecf4b-1431-4a05-a479-b1491d8fe520.png)
+![desktop](https://user-images.githubusercontent.com/93809764/170196147-66db5d7a-a93b-48b8-8877-14391828dce5.png)
 
 ### Solução
 Site: https://huddlelandingpagesingleintro.netlify.app/
