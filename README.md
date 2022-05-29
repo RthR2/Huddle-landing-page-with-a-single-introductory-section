@@ -21,5 +21,5 @@ Site: https://huddlelandingpagesingleintro.netlify.app/
 - HTML semantic
 - CSS responsive 
 - Mobile-First Workflow
-- Design Responsive
+- Layout Responsive
 - Media Queries
